@@ -1,4 +1,4 @@
-# portugal_project
+# Portugal Project
 
 ## [PT] Este projeto realiza a coleta, armazenamento e transformação de dados públicos da cidade de Braga para análise de infraestrutura urbana.
 
