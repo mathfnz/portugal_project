@@ -1,0 +1,1052 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+        "timestamp_osm_base": "2025-08-18T19:16:43Z",
+        "timestamp_areas_base": "2025-08-18T12:52:02Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 1057863627,
+            "lat": 41.6310993,
+            "lon": -8.3580883,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola de ingles"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1251585380,
+            "lat": 41.5114746,
+            "lon": -8.7726128,
+            "tags": {
+                "addr:city": "Esposende",
+                "addr:housenumber": "24",
+                "addr:postcode": "4740-325",
+                "addr:street": "Avenida Visconde de São Januário",
+                "amenity": "hospital",
+                "emergency": "no",
+                "healthcare": "hospital",
+                "name": "Hospital de Fão",
+                "operator": "Santa Casa da Misericórdia de Fão",
+                "operator:type": "religious"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1274091477,
+            "lat": 41.4976368,
+            "lon": -8.4962839,
+            "tags": {
+                "name": "Ruilhe",
+                "nat_ref": "29074",
+                "official_name": "Estação Ferroviária de Ruilhe",
+                "old_name": "Ruílhe",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "RUI",
+                "start_date": "1875-05-21",
+                "train": "yes",
+                "wikidata": "Q13534639",
+                "wikipedia": "pt:Apeadeiro de Ruilhe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1353874673,
+            "lat": 41.5567575,
+            "lon": -8.4196155,
+            "tags": {
+                "amenity": "school",
+                "check_date": "2024-06-10",
+                "name": "Instituto Britânico de Braga"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1353887528,
+            "lat": 41.5643575,
+            "lon": -8.4195136,
+            "tags": {
+                "addr:city": "Braga",
+                "addr:housenumber": "48, 54",
+                "addr:postcode": "4700-084",
+                "addr:street": "Avenida do Cávado",
+                "amenity": "school",
+                "contact:email": "esprominhobraga@escolas.min-edu.pt",
+                "contact:fax": "+351 253679246",
+                "contact:phone": "+351 253679244",
+                "contact:website": "https://www.esprominho.pt/",
+                "grades": "12-17",
+                "name": "Escola Profissional do Minho",
+                "operator:type": "private",
+                "ref": "803188",
+                "ref:qzp": "QZP.06",
+                "religion": "none",
+                "short_name": "Esprominho"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1353948829,
+            "lat": 41.55789,
+            "lon": -8.419947,
+            "tags": {
+                "addr:city": "Braga",
+                "addr:housenumber": "13",
+                "addr:postcode": "4700-382",
+                "addr:street": "Praça das Fontainhas",
+                "amenity": "school",
+                "name": "Centro Estudo Ocupação Tempos Livres",
+                "short_name": "C.E.O.T.L."
+            }
+        },
+        {
+            "type": "node",
+            "id": 1355547508,
+            "lat": 41.552358,
+            "lon": -8.4273073,
+            "tags": {
+                "amenity": "school",
+                "check_date": "2024-05-21",
+                "name": "Wall Street"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1366175030,
+            "lat": 41.4068509,
+            "lon": -8.5210723,
+            "tags": {
+                "amenity": "school",
+                "name": "Instituto de Línguas de Vila Nova de Famalicão - Instituto Britânico"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1460615223,
+            "lat": 41.5597417,
+            "lon": -8.4253053,
+            "tags": {
+                "addr:city": "São Vicente",
+                "addr:housenumber": "400",
+                "addr:postcode": "4700-358",
+                "addr:street": "Avenida Doutor Artur Soares",
+                "amenity": "school",
+                "check_date": "2024-05-27",
+                "name": "Escola de Dança Apolo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1561804930,
+            "lat": 41.4974108,
+            "lon": -8.7084302,
+            "tags": {
+                "amenity": "school"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1642556052,
+            "lat": 41.5529409,
+            "lon": -8.7884234,
+            "tags": {
+                "amenity": "school"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1662661331,
+            "lat": 41.6820726,
+            "lon": -8.0921277,
+            "tags": {
+                "amenity": "hospital",
+                "emergency": "no",
+                "name": "Cruz Vermelha de Salamonde"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1936924487,
+            "lat": 41.4272429,
+            "lon": -8.2988312,
+            "tags": {
+                "access": "private",
+                "amenity": "school",
+                "name": "Centro de Estudos EdgarAllan Poe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1937003093,
+            "lat": 41.481046,
+            "lon": -8.2627248,
+            "tags": {
+                "access": "private",
+                "amenity": "school",
+                "name": "Mente Activa Centro de Estudos"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2036138829,
+            "lat": 41.3724287,
+            "lon": -8.4210475,
+            "tags": {
+                "addr:housename": "Rua Pedreira",
+                "addr:housenumber": "30",
+                "addr:postcode": "4765-050",
+                "amenity": "school",
+                "name": "Pré-Primaria"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2044729790,
+            "lat": 41.3701904,
+            "lon": -8.426948,
+            "tags": {
+                "amenity": "hospital",
+                "name": "Pedologia B-Saúde",
+                "source": "Pedologia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2044759109,
+            "lat": 41.3914827,
+            "lon": -8.3883307,
+            "tags": {
+                "amenity": "school",
+                "name": "Externato Delfim Ferreira"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2048214139,
+            "lat": 41.4202234,
+            "lon": -8.300611,
+            "tags": {
+                "amenity": "school",
+                "name": "Centro de Estudos"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2206196421,
+            "lat": 41.5607837,
+            "lon": -8.3858243,
+            "tags": {
+                "amenity": "school",
+                "name": "SCHUMAL"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2404232054,
+            "lat": 41.4103724,
+            "lon": -8.5185937,
+            "tags": {
+                "amenity": "school",
+                "name": "Fameli - Centro de Inglês de Famalicão"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2449165722,
+            "lat": 41.3935915,
+            "lon": -8.3939296,
+            "tags": {
+                "amenity": "school"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2486606006,
+            "lat": 41.5082107,
+            "lon": -8.5819036,
+            "tags": {
+                "name": "Midões",
+                "nat_ref": "06080",
+                "official_name": "Estação Ferroviária de Midões",
+                "old_name": "Estação Feroviária de São Bento;Apeadeiro de Midões",
+                "operating_times": "24/7",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "MID",
+                "start_date": "1877-10-21",
+                "train": "yes",
+                "wikidata": "Q8841050",
+                "wikipedia": "pt:Apeadeiro de Midões"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2511478587,
+            "lat": 41.4237501,
+            "lon": -8.0849845,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola Primária do Rego"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2629797260,
+            "lat": 41.5243723,
+            "lon": -8.6205709,
+            "tags": {
+                "amenity": "school",
+                "name": "Centro de Explicações Kubo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2629797275,
+            "lat": 41.5244498,
+            "lon": -8.6225506,
+            "tags": {
+                "amenity": "school",
+                "name": "Kubo International School"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2633089058,
+            "lat": 41.426972,
+            "lon": -8.3577182,
+            "tags": {
+                "amenity": "school",
+                "name": "Alma Branca"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2741887400,
+            "lat": 41.5725616,
+            "lon": -8.5970216,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola Primaria Lijó"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2774265223,
+            "lat": 41.4087848,
+            "lon": -8.5200663,
+            "tags": {
+                "addr:city": "Vila Nova de Famalicão",
+                "addr:floor": "1",
+                "addr:housenumber": "50",
+                "addr:postcode": "4760-125",
+                "addr:street": "Rua Augusto Correia",
+                "amenity": "school",
+                "name": "Ginásio da Educação Da Vinci",
+                "opening_hours": "Mo-Fr 09:00-13:00,14:30-19:30",
+                "operator": "Da Vinci",
+                "phone": "+351 252 312398",
+                "website": "https://www.ginasiosdavinci.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2806164031,
+            "lat": 41.5575116,
+            "lon": -8.4170824,
+            "tags": {
+                "addr:city": "Braga",
+                "addr:housenumber": "10",
+                "addr:postcode": "4710-306",
+                "addr:street": "Rua Conselheiro Bento Miguel",
+                "amenity": "school",
+                "contact:email": "ext.leonardodavinci@escolas.min-edu.pt",
+                "contact:fax": "+351 253262683",
+                "contact:phone": "+351 253272149",
+                "grades": "3-11",
+                "name": "Colégio Leonardo da Vinci",
+                "operator:type": "private",
+                "phone": "+351 253 272149",
+                "ref": "500616",
+                "ref:qzp": "QZP.06"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2892502911,
+            "lat": 41.4095953,
+            "lon": -8.4004917,
+            "tags": {
+                "amenity": "school"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3080412402,
+            "lat": 41.4399677,
+            "lon": -8.4787915,
+            "tags": {
+                "amenity": "school",
+                "name": "Didáxis - Cooperativa de Ensino",
+                "official_name": "Didáxis - Cooperativa de Ensino, C.R.L."
+            }
+        },
+        {
+            "type": "node",
+            "id": 3195191834,
+            "lat": 41.6257689,
+            "lon": -8.3656064,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola Banda Filarmónica Amares"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3195194148,
+            "lat": 41.6304605,
+            "lon": -8.3508792,
+            "tags": {
+                "amenity": "hospital",
+                "name": "Casa da Saúde Amares"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3652507310,
+            "lat": 41.4689156,
+            "lon": -8.1711528,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola do 2º e 3º Ciclos e Secundário"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3652511101,
+            "lat": 41.4690523,
+            "lon": -8.1723222,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola do 1º Ciclo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3941781457,
+            "lat": 41.4351272,
+            "lon": -8.2942962,
+            "tags": {
+                "addr:city": "Guimarães",
+                "addr:postcode": "4800",
+                "addr:street": "Av. D. João IV",
+                "name": "Guimarães",
+                "nat_ref": "24000",
+                "official_name": "Estação Ferroviária de Guimarães",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "GUS",
+                "start_date": "1884-04-14",
+                "toilets:wheelchair": "yes",
+                "train": "yes",
+                "wheelchair": "yes",
+                "wikidata": "Q8779877",
+                "wikipedia": "pt:Estação Ferroviária de Guimarães"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4214577431,
+            "lat": 41.60879,
+            "lon": -8.6347956,
+            "tags": {
+                "name": "Tamel",
+                "nat_ref": "06213",
+                "official_name": "Estação Ferroviária de Tamel",
+                "operating_times": "24/7",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "TAL",
+                "start_date": "1878-07-01",
+                "train": "yes",
+                "wikidata": "Q8842021",
+                "wikipedia": "pt:Estação Ferroviária de Tamel"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4217899591,
+            "lat": 41.5367815,
+            "lon": -8.6089965,
+            "tags": {
+                "check_date": "2025-02-03",
+                "name": "Barcelos",
+                "nat_ref": "06122",
+                "operating_times": "24/7",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "BOS",
+                "start_date": "1877-10-21",
+                "train": "yes",
+                "wikidata": "Q2893868",
+                "wikipedia": "pt:Estação Ferroviária de Barcelos"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4257840299,
+            "lat": 41.4106594,
+            "lon": -8.5196728,
+            "tags": {
+                "amenity": "school",
+                "name": "DeRose Method - Famalicão",
+                "website": "https://famalicao.metododerose.pt/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4556942491,
+            "lat": 41.4413312,
+            "lon": -8.2960783,
+            "tags": {
+                "addr:housenumber": "30",
+                "addr:postcode": "4810-442",
+                "addr:street": "Rua de Camões",
+                "amenity": "school",
+                "email": "info.guimaraes@alliancefr.pt",
+                "name": "Alliance Francaise",
+                "opening_hours": "Mo-Fr 09:00-19:00",
+                "operator": "Alliance Francaise",
+                "phone": "253415653"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4794303756,
+            "lat": 41.4055648,
+            "lon": -8.5294251,
+            "tags": {
+                "ele": "110",
+                "name": "Famalicão",
+                "nat_ref": "05074",
+                "official_name": "Estação Ferroviária de Famalicão",
+                "operating_times": "24/7",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "FAM",
+                "start_date": "1875-05-20",
+                "train": "yes",
+                "wikidata": "Q8779770",
+                "wikipedia": "pt:Estação Ferroviária de Famalicão"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4795435047,
+            "lat": 41.3509462,
+            "lon": -8.5264871,
+            "tags": {
+                "ele": "40",
+                "name": "Lousado",
+                "nat_ref": "05009",
+                "official_name": "Estação Ferroviária de Lousado",
+                "old_name": "Louzado",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "LOO",
+                "start_date": "1875-05-21",
+                "train": "yes",
+                "wheelchair": "yes",
+                "wikidata": "Q8840987",
+                "wikipedia": "pt:Estação Ferroviária de Lousado"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4857962386,
+            "lat": 41.5682227,
+            "lon": -8.5317663,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4879553925,
+            "lat": -27.6162701,
+            "lon": -53.7434819,
+            "tags": {
+                "amenity": "school",
+                "name": "EEEM Santo Pazini"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4910176424,
+            "lat": 41.7235494,
+            "lon": -8.1632224,
+            "tags": {
+                "amenity": "school"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4974239498,
+            "lat": -27.600831,
+            "lon": -53.6979539,
+            "tags": {
+                "amenity": "school",
+                "name": "EEEF Bento Gonçalves"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5063846521,
+            "lat": 41.519811,
+            "lon": -8.6345309,
+            "tags": {
+                "amenity": "hospital",
+                "internet_access": "wlan",
+                "name": "Hospital Particular Barcelos",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6040379376,
+            "lat": 41.4524107,
+            "lon": -8.2914415,
+            "tags": {
+                "amenity": "school",
+                "name": "Departamento de Engenharia Mecânica",
+                "website": "https://www.dem.uminho.pt/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6182120619,
+            "lat": 41.7135227,
+            "lon": -8.3366807,
+            "tags": {
+                "addr:postcode": "4730-520",
+                "addr:street": "Avenida de São Martinho",
+                "amenity": "school",
+                "name": "Escola"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7009933899,
+            "lat": 41.6126867,
+            "lon": -8.6991039,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola EB 1 de Fragoso"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7722246678,
+            "lat": 41.5485469,
+            "lon": -8.429615,
+            "tags": {
+                "addr:housenumber": "52",
+                "addr:postcode": "4700-027",
+                "addr:street": "Rua do Matadouro",
+                "amenity": "hospital",
+                "check_date": "2024-05-18",
+                "email": "cdp.braga@arsnorte.min-saude.pt",
+                "fax": "+351 253 610 133",
+                "healthcare": "centre",
+                "name": "Centro de Diagnóstico Pneumológico de Braga",
+                "opening_hours": "Mo-Fr 08:30-12:30,14:00-17:00, Sa-Su 09:00-14:00",
+                "operator": "ARS Norte",
+                "operator:type": "public",
+                "phone": "+351 253 262 544",
+                "website": "https://aces-braga.webnode.pt/cdp/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8439495012,
+            "lat": 41.6558182,
+            "lon": -8.4348597,
+            "tags": {
+                "amenity": "school",
+                "check_date": "2025-04-09",
+                "name": "ATAHCA"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9092395779,
+            "lat": 41.6008485,
+            "lon": -8.1667847,
+            "tags": {
+                "amenity": "school"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10783341024,
+            "lat": 41.4547372,
+            "lon": -8.544285,
+            "tags": {
+                "check_date": "2025-02-06",
+                "ele": "80",
+                "fixme": "Shelters",
+                "name": "Nine",
+                "nat_ref": "06007",
+                "official_name": "Estação Ferroviária de Nine",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "NIN",
+                "start_date": "1875-05-21",
+                "train": "yes",
+                "wikidata": "Q8841121",
+                "wikipedia": "pt:Estação Ferroviária de Nine"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10783341036,
+            "lat": 41.5480464,
+            "lon": -8.4344636,
+            "tags": {
+                "ele": "160",
+                "name": "Braga",
+                "nat_ref": "29157",
+                "official_name": "Estação Ferroviária de Braga",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "BRA",
+                "start_date": "1875-05-21",
+                "train": "yes",
+                "wheelchair": "yes",
+                "wikidata": "Q10275766",
+                "wikipedia": "pt:Estação Ferroviária de Braga"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10799652530,
+            "lat": 41.4899873,
+            "lon": -8.5088774,
+            "tags": {
+                "name": "Arentim",
+                "nat_ref": "29066",
+                "official_name": "Estação Ferroviária de Arentim",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "ARM",
+                "start_date": "1875-05-21",
+                "train": "yes",
+                "wikidata": "Q5692501",
+                "wikipedia": "pt:Estação Ferroviária de Arentim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10799652531,
+            "lat": 41.5091823,
+            "lon": -8.4829854,
+            "tags": {
+                "ele": "140",
+                "name": "Tadim",
+                "nat_ref": "29090",
+                "official_name": "Estação Ferroviária de Tadim",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "TAD",
+                "start_date": "1875-05-21",
+                "train": "yes",
+                "wikidata": "Q8842018",
+                "wikipedia": "pt:Estação Ferroviária de Tadim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10802552388,
+            "lat": 41.3636833,
+            "lon": -8.4376511,
+            "tags": {
+                "name": "Caniços",
+                "nat_ref": "28100",
+                "official_name": "Estação Ferroviária de Caniços",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "CAN",
+                "start_date": "1883-12-31",
+                "train": "yes",
+                "wikidata": "Q8779490",
+                "wikipedia": "pt:Estação Ferroviária de Caniços"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10802552391,
+            "lat": 41.3656009,
+            "lon": -8.3634881,
+            "tags": {
+                "ele": "105",
+                "name": "Lordelo",
+                "nat_ref": "28191",
+                "official_name": "Estação Ferroviária de Lordelo",
+                "old_name": "Lordello",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "LOR",
+                "start_date": "1883-12-31",
+                "train": "yes",
+                "wikidata": "Q8840964",
+                "wikipedia": "pt:Estação Ferroviária de Lordelo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10802552403,
+            "lat": 41.3790869,
+            "lon": -8.3123667,
+            "tags": {
+                "ele": "150",
+                "name": "Vizela",
+                "nat_ref": "28233",
+                "official_name": "Estação Ferroviária de Vizela",
+                "operator": "Infraestruturas de Portugal, S.A.",
+                "public_transport": "station",
+                "railway": "station",
+                "railway:ref": "VIZ",
+                "start_date": "1883-12-31",
+                "train": "yes",
+                "wikidata": "Q10275806",
+                "wikipedia": "pt:Estação Ferroviária de Vizela"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11063388445,
+            "lat": 41.54701,
+            "lon": -8.4055862,
+            "tags": {
+                "addr:city": "Braga",
+                "addr:housenumber": "87",
+                "addr:postcode": "4715-213",
+                "addr:street": "Rua José António Cruz, 87",
+                "amenity": "hospital",
+                "healthcare": "clinic",
+                "healthcare:speciality": "physiatry",
+                "mobile": "+351917364312",
+                "name": "GeraSol - Fisioterapia",
+                "website": "https://www.gerasol-fisioterapia.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088890460,
+            "lat": 41.5859359,
+            "lon": -8.4018005,
+            "tags": {
+                "addr:housenumber": "170B",
+                "addr:postcode": "4710-820 Adaúfe",
+                "addr:street": "Avenida Imaculada Conceição",
+                "amenity": "hospital",
+                "email": "ucsp.adaufe@arsnorte.min-saude.pt",
+                "emergency": "no",
+                "name": "Unidade de Cuidados de Saúde Personalizados Adaúfe",
+                "phone": "+351 253 675 178",
+                "short_name": "UCSP Adaúfe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11631336326,
+            "lat": 41.4016459,
+            "lon": -8.4452083,
+            "tags": {
+                "amenity": "school",
+                "name": "Escola de Hotelaria e Turismo Aesacademy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11648477325,
+            "lat": 41.5792599,
+            "lon": -8.4297207,
+            "tags": {
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "name": "Trofa Saúde Braga Norte",
+                "operator": "Trofa Saúde"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11781684681,
+            "lat": 41.5395711,
+            "lon": -8.4396588,
+            "tags": {
+                "addr:city": "Braga",
+                "addr:postcode": "4700-116",
+                "addr:street": "Rua do Cruzeiro",
+                "amenity": "school",
+                "contact:email": "eb1ji.naia@escolas.min-edu.pt",
+                "contact:phone": "+351 253309092",
+                "grades": "3-9",
+                "name": "Escola Básica da Naia",
+                "official_name": "Centro Escolar da Naia",
+                "operator": "Agrupamento de Escolas de Maximinos, Braga",
+                "operator:ref": "150721",
+                "operator:type": "public",
+                "phone": "+351 253 692445",
+                "ref": "294263",
+                "ref:qzp": "QZP.06",
+                "website": "https://www.aemaximinos.edu.pt/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11939418701,
+            "lat": 41.5404608,
+            "lon": -8.6169291,
+            "tags": {
+                "addr:city": "Arcozelo",
+                "addr:housename": "Edifício Panorâmico 2",
+                "addr:housenumber": "LT 3",
+                "addr:postcode": "4750-318",
+                "addr:street": "Rua Bartolomeu Dias",
+                "amenity": "school",
+                "contact:email": "acib@acibarcelos.pt",
+                "grades": "12-17",
+                "name": "Escola Profissional de Barcelos",
+                "operator": "Associação Comercial e Industrial de Barcelos",
+                "operator:type": "private",
+                "ref": "802789",
+                "ref:qzp": "QZP.05"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11954312497,
+            "lat": 41.5480145,
+            "lon": -8.4339079,
+            "tags": {
+                "addr:city": "Braga",
+                "addr:floor": "1",
+                "addr:housenumber": "305",
+                "addr:postcode": "4700-206",
+                "addr:street": "Rua do Caires",
+                "amenity": "school",
+                "contact:email": "esc.eeprofissional@escolas.min-edu.pt",
+                "contact:fax": "+351 253305239",
+                "contact:phone": "+351 253305230",
+                "contact:website": "http://www.escolaeuropeia.blogspot.com",
+                "grades": "15-17",
+                "name": "Escola Europeia de Ensino Profissional",
+                "operator:type": "private",
+                "ref": "802470",
+                "ref:qzp": "QZP.06"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11954360209,
+            "lat": 41.4091643,
+            "lon": -8.5197862,
+            "tags": {
+                "addr:city": "Vila Nova de Famalicão",
+                "addr:housenumber": "161",
+                "addr:postcode": "4760-114",
+                "addr:street": "Rua Adriano Pinto Basto",
+                "addr:unit": "2º Trás",
+                "amenity": "school",
+                "contact:email": "ep.avavnovafamalicao@escolas.min-edu.pt",
+                "contact:fax": "+351 252377138",
+                "contact:phone": "+351 252808830",
+                "contact:website": "https://site.artave-ep.pt/instituicao/contactos/",
+                "grades": "12-17",
+                "name": "Escola Profissional Artística do Vale do Ave",
+                "operator": "Escola Profissional Artística do Vale do Ave",
+                "operator:type": "private",
+                "ref": "802722",
+                "ref:qzp": "QZP.07"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11954645912,
+            "lat": 41.3960026,
+            "lon": -8.3918032,
+            "tags": {
+                "addr:city": "Riba de Ave",
+                "addr:housename": "Didáxis Riba de Ave",
+                "addr:housenumber": "188",
+                "addr:postcode": "4765-213",
+                "addr:street": "Rua António Sérgio",
+                "amenity": "school",
+                "name": "Academia de Música Didáxis",
+                "operator:type": "private",
+                "ref": "800050",
+                "ref:qzp": "QZP.07"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11954645969,
+            "lat": 41.4452458,
+            "lon": -8.3001473,
+            "tags": {
+                "addr:city": "Guimarães",
+                "addr:housename": "Estádio Dom Afonso Henriques",
+                "addr:housenumber": "Porta 8",
+                "addr:postcode": "4810-525",
+                "addr:street": "Rua de São Gonçalo",
+                "amenity": "school",
+                "contact:email": "ep.pbarcelos@escolas.min-edu.pt",
+                "contact:fax": "+351 253516945",
+                "contact:phone": "+351 253417458",
+                "contact:website": "http://www.profitecla.pt",
+                "grades": "12-17",
+                "name": "Escola Profissional Profitecla",
+                "operator:type": "private",
+                "ref": "802753",
+                "ref:qzp": "QZP.07"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12294970966,
+            "lat": 41.5476618,
+            "lon": -8.4227189,
+            "tags": {
+                "amenity": "hospital",
+                "check_date": "2024-10-29",
+                "healthcare": "hospital",
+                "name": "Lusíadas Braga",
+                "operator:type": "private",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "wheelchair": "yes"
+            }
+        }
+    ]
+}
