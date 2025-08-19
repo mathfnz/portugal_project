@@ -1,0 +1,31 @@
+# Versão do docker-compose que estamos usando
+version: '3.8'
+
+# Lista de serviços (containers) que queremos criar
+services:
+  # O nome do nosso serviço. Vamos chamá-lo de 'db'
+  db:
+    # A imagem que o Docker vai baixar. É uma versão do PostgreSQL que já vem com o PostGIS.
+    image: postgis/postgis:15-3.3
+    
+    # Nome do container, para fácil identificação
+    container_name: postgres_braga
+    
+    # Variáveis de ambiente para configurar o banco de dados na primeira vez que ele é criado
+    environment:
+      - POSTGRES_USER=braga_user
+      - POSTGRES_PASSWORD=braga_password
+      - POSTGRES_DB=braga_db
+      
+    # Mapeamento de portas. Conecta a porta 5432 do container à porta 5432 da sua máquina.
+    # É isso que nos permitirá conectar ao banco de dados a partir do seu computador.
+    ports:
+      - "5432:5432"
+      
+    # Volumes. Mapeia a pasta 'pgdata' no seu computador para a pasta de dados dentro do container.
+    # ISSO É MUITO IMPORTANTE: Garante que seus dados não sejam perdidos se o container for desligado.
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+      
+    # Política de reinicialização. Se o container parar por algum motivo, ele tentará reiniciar sozinho.
+    restart: unless-stopped

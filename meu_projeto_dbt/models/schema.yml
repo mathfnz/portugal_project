@@ -1,0 +1,5 @@
+sources:
+  - name: public
+    schema: public
+    tables:
+      - name: osm_infra_braga
