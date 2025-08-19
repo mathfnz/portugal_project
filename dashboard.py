@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 # --- DATABASE CONNECTION SETTINGS ---
 db_user = 'braga_user'
 db_password = 'braga_password'
-db_host = 'localhost'
+db_host = 'db'
 db_port = '5432'
 db_name = 'braga_db'
 table_name = 'osm_infra_braga'
